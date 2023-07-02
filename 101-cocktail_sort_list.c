@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include "sort.h"
 
 void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker);
